@@ -1,3 +1,0 @@
-streamlit
-numpy
-git+https://github.com/zhouy185/rosa-starter.git
